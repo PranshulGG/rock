@@ -2,7 +2,7 @@ body,html{
 	width: 1090px  ;
 	
 	margin-top: 140px;
-
+margin-left: 13px;
 	overflow:hidden
 	
 
@@ -167,14 +167,14 @@ h2{
 	position: absolute;
 	top: 1850px;
 	display: flex;
-	left: 520px;
+	left: 550px;
 
 }
 .res{
 	position: absolute;
 	top: 1930px;
 	display: flex;
-	left: 460px;
+	left: 490px;
 	font-size: 50px;
 	
 	
@@ -185,7 +185,7 @@ h2{
 	height: 500px;
 	background-color: black;
 	position: absolute;
-  left: 552px;
+  left: 570px;
 margin-top: 600px;
 }
 
@@ -228,7 +228,7 @@ margin-top: 600px;
 	right: 20px;
 		position: relative;
 	font-family: Bungee;
-
+border-radius: 40px;
 	
 	
 	> div {
