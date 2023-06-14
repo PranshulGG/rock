@@ -154,27 +154,27 @@ h1 {
 h3{
 	position: absolute;
 	top: 830px;
-	left: 150px;
-	font-size: 30px;
+	left: 180px;
+	font-size: 40px;
 }
 h2{
 	position: absolute;
 	top: 830px;
-	left: 870px;
-	font-size: 30px;
+	left: 900px;
+	font-size: 40px;
 }
 .fa-spin{
 	position: absolute;
-	top: 1850px;
+	top: 100px;
 	display: flex;
-	left: 550px;
+	left: 960px;
 
 }
 .res{
 	position: absolute;
-	top: 1930px;
+	top: 150px;
 	display: flex;
-	left: 490px;
+	left: 900px;
 	font-size: 50px;
 	
 	
